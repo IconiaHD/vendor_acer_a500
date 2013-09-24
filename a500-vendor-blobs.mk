@@ -35,16 +35,14 @@ PRODUCT_COPY_FILES += \
     vendor/acer/a500/proprietary/etc/firmware/nvmm_wmadec.axf:/system/etc/firmware/nvmm_wmadec.axf \
     vendor/acer/a500/proprietary/etc/firmware/nvmm_wmaprodec.axf:/system/etc/firmware/nvmm_wmaprodec.axf \
     vendor/acer/a500/proprietary/etc/firmware/nvrm_avp.bin:/system/etc/firmware/nvrm_avp.bin \
-    vendor/acer/a500/proprietary/lib/egl/libEGL_perfhud.so:/system/lib/egl/libEGL_perfhud.so \
     vendor/acer/a500/proprietary/lib/egl/libEGL_tegra.so:/system/lib/egl/libEGL_tegra.so \
-    vendor/acer/a500/proprietary/lib/egl/libGLESv1_CM_perfhud.so:/system/lib/egl/libGLESv1_CM_perfhud.so \
     vendor/acer/a500/proprietary/lib/egl/libGLESv1_CM_tegra.so:/system/lib/egl/libGLESv1_CM_tegra.so \
-    vendor/acer/a500/proprietary/lib/egl/libGLESv2_perfhud.so:/system/lib/egl/libGLESv2_perfhud.so \
     vendor/acer/a500/proprietary/lib/egl/libGLESv2_tegra.so:/system/lib/egl/libGLESv2_tegra.so \
+    vendor/acer/a500/proprietary/lib/hw/hwcomposer.tegra.so:/system/lib/hw/hwcomposer.tegra.so \
+    vendor/acer/a500/proprietary/lib/hw/hwcomposer.tegra_v0.so:/system/lib/hw/hwcomposer.tegra_v0.so \
     vendor/acer/a500/proprietary/lib/hw/camera.tegra.so:/system/lib/hw/camera.tegra.so \
     vendor/acer/a500/proprietary/lib/hw/gps.tegra.so:/system/lib/hw/gps.tegra.so \
     vendor/acer/a500/proprietary/lib/hw/gralloc.tegra.so:/system/lib/hw/gralloc.tegra.so \
-    vendor/acer/a500/proprietary/lib/hw/hwcomposer.tegra.so:/system/lib/hw/hwcomposer.tegra.so \
     vendor/acer/a500/proprietary/lib/hw/lights.picasso.so:/system/lib/hw/lights.picasso.so \
     vendor/acer/a500/proprietary/lib/hw/sensors.tegra.so:/system/lib/hw/sensors.tegra.so \
     vendor/acer/a500/proprietary/lib/libardrv_dynamic.so:/system/lib/libardrv_dynamic.so \
@@ -117,4 +115,5 @@ PRODUCT_COPY_FILES += \
     vendor/acer/a500/proprietary/usr/share/alsa/pcm/surround41.conf:/system/usr/share/alsa/pcm/surround41.conf \
     vendor/acer/a500/proprietary/usr/share/alsa/pcm/surround50.conf:/system/usr/share/alsa/pcm/surround50.conf \
     vendor/acer/a500/proprietary/usr/share/alsa/pcm/surround51.conf:/system/usr/share/alsa/pcm/surround51.conf \
-    vendor/acer/a500/proprietary/usr/share/alsa/pcm/surround71.conf:/system/usr/share/alsa/pcm/surround71.conf \
+    vendor/acer/a500/proprietary/usr/share/alsa/pcm/surround71.conf:/system/usr/share/alsa/pcm/surround71.conf 
+
