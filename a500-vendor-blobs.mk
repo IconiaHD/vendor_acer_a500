@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/acer/a500/proprietary/lib/egl/libEGL_tegra.so:/system/lib/egl/libEGL_tegra.so \
     vendor/acer/a500/proprietary/lib/egl/libGLESv1_CM_tegra.so:/system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/acer/a500/proprietary/lib/egl/libGLESv2_tegra.so:/system/lib/egl/libGLESv2_tegra.so \
-    vendor/acer/a500/proprietary/lib/hw/hwcomposer.tegra.so:/system/lib/hw/hwcomposer.tegra.so \
     vendor/acer/a500/proprietary/lib/hw/hwcomposer.tegra_v0.so:/system/lib/hw/hwcomposer.tegra_v0.so \
     vendor/acer/a500/proprietary/lib/hw/camera.tegra.so:/system/lib/hw/camera.tegra.so \
     vendor/acer/a500/proprietary/lib/hw/gps.tegra.so:/system/lib/hw/gps.tegra.so \
